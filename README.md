@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Wecluse
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on creating front-end web designs
+- 🌱 I’m currently learning Ruby and JavaScript
 - 📫 How to reach me: Contact me via discord: @wecluse
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: According to Atwood's Law: "Any application that can be written in JavaScript, will eventually be written in JavaScript!"
